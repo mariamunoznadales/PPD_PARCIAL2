@@ -3,9 +3,7 @@
 ## ¿Qué hace este programa?
 
 Este proyecto implementa un sistema distribuido asincrónico para la extracción y procesamiento de noticias desde diferentes fuentes online, utilizando una 
-
 arquitectura de tipo Master-Worker. El objetivo es simular un sistema de adquisición de datos en nodos geográficos diferentes (Madrid, Londres, São Paulo), con un 
-
 servidor central ubicado en Frankfurt que recibe y gestiona los artículos extraídos.
 
 
